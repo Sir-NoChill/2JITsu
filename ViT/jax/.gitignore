@@ -1,2 +1,4 @@
-vision_transformer/
+inference/
+ilsvrc2012*
 *.npz
+vision_transformer/
