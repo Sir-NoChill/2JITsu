@@ -1,0 +1,4 @@
+Model,Framework,Evaluation,Trials,Warmups,Time,Notes
+ViT,JAX,train,5,1,34.82283584276835,
+ViT,JAX,inference,100,10,0.192585113313463,
+VIT,JAX,JIT,10,2,6.914802259869045,
