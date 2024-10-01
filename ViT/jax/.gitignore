@@ -2,3 +2,4 @@ inference/
 ilsvrc2012*
 *.npz
 vision_transformer/
+.ipynb_checkpoints/
