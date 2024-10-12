@@ -1,0 +1,6 @@
+[submodule "BERT/torch/benchmark"]
+	path = BERT/torch/benchmark
+	url = git@github.com:pytorch/benchmark.git
+[submodule "BERT/jax/2JITsu-minibert"]
+	path = BERT/jax/2JITsu-minibert
+	url = git@github.com:Sir-NoChill/2JITsu-minibert.git
